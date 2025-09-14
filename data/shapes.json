@@ -1,0 +1,44 @@
+{
+  "shapes": [
+    {
+      "kind": "oval",
+      "x": 538,
+      "y": 225,
+      "size": 73,
+      "color": "#22c55e",
+      "item_id": 7
+    },
+    {
+      "kind": "oval",
+      "x": 251,
+      "y": 327,
+      "size": 75,
+      "color": "#22c55e",
+      "item_id": 8
+    },
+    {
+      "kind": "oval",
+      "x": 639,
+      "y": 263,
+      "size": 77,
+      "color": "#e11d48",
+      "item_id": 9
+    },
+    {
+      "kind": "rect",
+      "x": 481,
+      "y": 307,
+      "size": 72,
+      "color": "#22c55e",
+      "item_id": 10
+    },
+    {
+      "kind": "rect",
+      "x": 195,
+      "y": 299,
+      "size": 82,
+      "color": "#22c55e",
+      "item_id": 11
+    }
+  ]
+}
