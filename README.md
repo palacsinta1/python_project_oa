@@ -25,3 +25,4 @@ python main.py
 - Gombok: Hozzáadás/Törlés/Mentés/Betöltés
 - Billentyűk: `c`–törlés, `s`–mentés, `l`–betöltés, `a`–5 véletlen alakzat
 
+
